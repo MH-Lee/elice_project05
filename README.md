@@ -1,1 +1,1 @@
-this repository forked by https://github.com/yunjey/StarGAN
+this repository forked from https://github.com/yunjey/StarGAN
